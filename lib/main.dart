@@ -34,7 +34,7 @@ class _MyHomePageState extends State<MyHomePage> {
         title: Text('Tweet WebView Example 1'),
       ),
       body: TweetWebView.tweetUrl(
-          "https://twitter.com/shayankarim/status/1176077315903774720"),
+          "https://twitter.com/IBeheld/status/1176216709881061377"),
     );
   }
 }
